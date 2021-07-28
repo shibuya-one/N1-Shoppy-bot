@@ -1,4 +1,4 @@
-# N1-Shoppy-bot
+# N1 Shoppy-bot
 Discord bot for Shoppy.gg
 
 ## Installation
