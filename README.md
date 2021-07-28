@@ -21,6 +21,17 @@ Discord bot for Shoppy.gg
 - os
 - json
 - datetime
+### TODO
+- Product
+  - View all products
+  - View specific product
+- Feedback
+  - View all feedbacks
+- Queries
+  - View all queries
+  - View specific query
+  - Reply to query
+- Pay
 
 ### View all orders:
 ![orders](https://i.imgur.com/uNulnKv.png) 
