@@ -21,3 +21,8 @@ Discord bot for Shoppy.gg
 - os
 - json
 - datetime
+
+### View all orders:
+![orders](https://i.imgur.com/uNulnKv.png) 
+### View order
+![orderinfo](https://i.imgur.com/39CKDTx.png)
