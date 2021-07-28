@@ -10,6 +10,11 @@ Discord bot for Shoppy.gg
 ## Shoppy API Key
 - Your Shoppy API key can be found at https://shoppy.gg/user/settings
 
+## License
+- This project:
+  - is free to use/edit for everyone
+  - will get updated by time with newer features
+
 ### Used modules
 - discord (& discord.ext)
 - requests
