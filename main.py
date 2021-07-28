@@ -6,12 +6,6 @@ import requests
 from discord.ext import commands
 from datetime import datetime
 
-PREFIX = "."
-FOOTER = "N1 Shoppy-bot"
-FOOTER_ICON_URL = "https://i.imgur.com/m4V5V94.png"
-THUMBNAIL_IMAGE = "https://avatars.githubusercontent.com/u/30088307?s=200&v=4"
-HEXCOLOR = "#40A0C6".replace("#", "0x", 0)
-
 bot = commands.Bot(command_prefix=PREFIX,
                    case_insensitive=True, help_command=None)
 
