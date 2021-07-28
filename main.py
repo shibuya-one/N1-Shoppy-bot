@@ -6,7 +6,7 @@ import requests
 from discord.ext import commands
 from datetime import datetime
 
-bot = commands.Bot(command_prefix=PREFIX,
+bot = commands.Bot(command_prefix=settings.prefix(),
                    case_insensitive=True, help_command=None)
 
 
